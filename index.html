@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EduBrain - Personalized RAG Chatbot</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>EduBrain AI</h1>
+      <p class="subtitle">Your personal AI tutor for every chapter.</p>
+    </header>
+
+    <div class="selection-grid">
+      <div class="card">
+        <h2>📚 Class</h2>
+        <select id="class-select">
+          <option value="">Select Class</option>
+          <option value="4">Class 4</option>
+          <option value="5">Class 5</option>
+          <option value="6">Class 6</option>
+          <option value="7">Class 7</option>
+          <option value="8">Class 8</option>
+          <option value="9">Class 9</option>
+          <option value="10">Class 10</option>
+          <option value="11">Class 11</option>
+          <option value="12">Class 12</option>
+        </select>
+      </div>
+
+      <div class="card">
+        <h2>🧪 Subject</h2>
+        <select id="subject-select" disabled>
+          <option value="">Select Subject</option>
+          <option value="science">Science</option>
+          <option value="math">Mathematics</option>
+          <option value="social">Social Studies</option>
+          <option value="english">English</option>
+          <option value="health">Health & Physical Edu</option>
+        </select>
+      </div>
+
+      <div class="card">
+        <h2>📖 Chapter</h2>
+        <select id="chapter-select" disabled>
+          <option value="">Select Chapter</option>
+          <!-- Will be populated dynamically -->
+        </select>
+      </div>
+    </div>
+
+    <div id="chat-section" class="chat-container">
+      <div class="chat-header">
+        <h3 id="current-chapter-title">Please Select a Chapter to Start</h3>
+      </div>
+      <div class="chat-messages" id="chat-messages">
+        <div class="message bot">
+          Hello! I'm your dedicated tutor for this chapter. How can I help you today?
+        </div>
+      </div>
+      <div class="chat-input-area">
+        <input type="text" id="user-input" placeholder="Ask a question about this chapter...">
+        <button class="send-btn" id="send-btn">
+          <svg width="20" height="20" fill="white" viewBox="0 0 24 24"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
