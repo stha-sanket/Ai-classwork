@@ -37,7 +37,6 @@ async def chat(request: ChatRequest):
     with open(data_path, "r") as f:
         context = f.read()
 
-    # System prompt to restrict answers to the context
     system_prompt = (
         "### STRICT INSTRUCTIONS ###\n"
         "You are an AI assistant specifically trained for this one chapter.\n"

@@ -1,1 +1,109 @@
-Chemical reactions are processes in which one or more substances, the reactants, are converted to one or more different substances, the products. Substances are either chemical elements or compounds.
+Part 1: General IT Company Rules & Policies
+Company Name: DanpheLink Pvt. Ltd.
+1. Code of Conduct
+●​ Employees must act professionally, ethically, and responsibly at all
+times.
+●​ Respect towards colleagues, students, clients, and management is
+mandatory.
+●​ Any form of harassment, discrimination, or misconduct will result in
+disciplinary action.
+2. Working Hours & Attendance
+●​ Working days: 6 days per week.
+●​ General working hours: 9:00 AM - 5:00 PM.
+●​ Attendance must be regular and punctual.
+●​ Variations in working hours may occur due to training sessions,
+projects, or client commitments.
+3. Leave Policy
+●​ Employees are entitled to 2 paid leaves per month.
+●​ Leave must be applied for in advance and approved by management.
+●​ Unapproved absences may result in salary deductions or disciplinary
+action.
+4. Roles & Responsibilities
+●​ Employees must perform duties assigned by the company diligently
+and responsibly.
+●​ For technical roles, maintaining updated skills and knowledge is
+expected.●​ Employees may be assigned teaching, project, or service-related
+tasks as required.
+5. IT & Data Security Policy
+●​ Company systems, data, and tools must be used strictly for official
+purposes.
+●​ Unauthorized access, copying, or sharing of company or client data is
+prohibited.
+●​ All cybersecurity best practices must be followed.
+6. Confidentiality
+●​ All company, client, student, and project-related information is
+confidential.
+●​ Confidential information must not be disclosed during or after
+employment.
+7. Travel & Transfers
+●​ Employees must be willing to travel or relocate temporarily to other
+company locations (including Kathmandu) as required.
+●​ Travel instructions must be followed as per company guidelines.
+8. Company Property
+●​ Any equipment, documents, or materials provided by the company
+remain company property.
+●​ All such items must be returned upon resignation or termination.
+9. Disciplinary Action
+●​ Violation of company rules may result in warning, suspension, salary
+deduction, or termination depending on severity.10. Amendment of Policies
+●​ The company reserves the right to modify rules and policies at any
+time.
+Part 2: Notice Period Policy
+Notice Period
+●​ The notice period for resignation or termination (without misconduct)
+shall be 30 (Thirty) days from either side.
+During Notice Period
+●​ The employee must continue performing all assigned duties
+professionally.
+●​ Salary will be paid as per actual working days during the notice
+period.
+Buyout of Notice Period
+●​ The company may allow notice period buyout at its discretion.
+●​ Salary equivalent to the unserved notice period may be deducted or
+paid accordingly.
+Immediate Termination
+The company reserves the right to terminate employment without notice in
+cases of:
+●​ Gross misconduct.
+●​ Breach of confidentiality or NDA.
+●​ Fraud, data theft, or serious policy violation.
+Part 3: Non-Disclosure Agreement (NDA)
+Date of Agreement: 17th July, 2025Parties Involved:
+1.​ The Company: Danphelink Pvt. Ltd., registered in Nepal, office at
+Kathmandu, Nepal.
+2.​ The Employee: Mr. Sujan Shrestha, residing at Sinamangal, Lalitpur,
+Nepal.
+1. Definition of Confidential Information
+Confidential Information includes, but is not limited to:
+●​ Training materials, course content, and methodologies; Client and
+student information.
+●​ Project details, source code, system designs.
+●​ Business strategies, pricing, and internal documents.
+2. Obligation of Confidentiality
+The Employee agrees to:
+●​ Keep all Confidential Information strictly confidential.
+●​ Not disclose, copy, or share any Confidential Information with
+unauthorized persons.
+●​ Use Confidential Information only for company-related work.
+3. Ownership
+●​ All Confidential Information remains the sole property of DanpheLink
+Pvt. Ltd..
+4. Duration
+●​ This Agreement shall remain in effect during employment and for a
+period of 2 (two) years after termination of employment.
+5. Return of Information
+●​ Upon termination or resignation, the Employee must return all
+company data, documents, and materials.6. Breach
+Any breach of this Agreement may result in:
+●​ Immediate termination.
+●​ Legal action.
+●​ Claim for damages as per applicable laws.
+7. Governing Law
+●​ This Agreement shall be governed by the laws of Nepal.
+8. Acceptance
+By signing below, the Employee acknowledges understanding and
+acceptance of this Agreement.
+Signatures:
+●​ For Danphelink Pvt. Ltd.: Authorized Signatory (Dated: 17/07/2025).
+●​ Employee: Mr. Sujan Shrestha (Signature present, Dated:
+17-07-2025).
